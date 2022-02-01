@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" height="200"/>
+  <img src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif" height="200"/>
 </p>
 <h1 align="center">Hi 👋, I'm Ravikant Sharma</h1>
 <h3 align="center">A passionate Android developer</h3>
