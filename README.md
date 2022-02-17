@@ -1,14 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Ravikant Sharma</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">Computer Science 3rd Year Engineering Students</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikant99&label=Profile%20views&color=0e75b6&style=flat" alt="ravikant99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikant99" alt="ravikant99" /></a> </p>
 
-- 🔭 I’m currently working on **Medical App**
 
-- 🌱 I’m currently learning **Java, Firebase, WebRtc, DSA**
+- 🌱 I’m currently learning **DSA,Java**
 
 - 💬 Ask me about **C++, Android Development, PC troubleshooting**
 
